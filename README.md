@@ -1,4 +1,4 @@
-# Digitize Your Business – Web Application
+# Basic Task – Web Application
 
 ## Project Description
 This project is a simple **full-stack web application** developed using **JavaScript**.  
